@@ -10,10 +10,10 @@ You can click the Preview link to take a look at your changes.
 --->
 <p align="right">
   <a href="https://github.com/dilumsadeepa">
-    <img src="https://komarev.com/ghpvc/?username=MadushanSandaru1&style=flat-square&color=040404" alt="Visitors" />
+    <img src="https://komarev.com/ghpvc/?username=dilumsadeepa&style=flat-square&color=040404" alt="Visitors" />
   </a>
   <a href="https://github.com/dilumsadeepa?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MadushanSandaru1?style=flat-square&color=040404&labelColor=565656&logo=github" alt="Followers" />
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/dilumsadeepa?style=flat-square&color=040404&labelColor=565656&logo=github" alt="Followers" />
   </a>
 </p>
 
