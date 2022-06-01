@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-<h1 align="left" id="macropower-title"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Hello there! I'm Dilum Sadeepa</h1>
+<h1 align="left" id="macropower-title"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"></a> Hello there! I'm Dilum Sadeepa</h1>
 <h3 align="left">I'm an undergraduate at University of Ruhuna in Sri Lanka (Bachelor of Information and Communication Technology Honours)</h3>
 
 <br>
