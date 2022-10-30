@@ -23,8 +23,8 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 [![](https://img.shields.io/website?color=040404&style=flat-square&labelColor=18d26e&up_message=MS&url=https://github.com/dilumsadeepa)](https://github.com/dilumsadeepa)
-[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-075e54?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+94789843284)](https://wa.me/+94771637551)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dilum19990612@gmail.com)](mailto:madushansandaru1@gmail.com)
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-075e54?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+94789843284)](https://wa.me/+94789843284)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dilum19990612@gmail.com)](mailto:dilum19990612@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/dilumsadeepa)](https://github.com/dilumsadeepa)
 <!--[![Stack-overflow Badge](https://img.shields.io/badge/Stack-overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/13410194/madushan-sandaruwan)](https://stackoverflow.com/users/13410194/madushan-sandaruwan)-->
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&labelColor=0a66c2&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dilum-sadeepa-b077801a4//)](https://www.linkedin.com/in/dilum-sadeepa-b077801a4/)
